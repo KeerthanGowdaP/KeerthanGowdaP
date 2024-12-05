@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there! I’m Keerthan Gowda P</h1>
 <h3  align="center">🎓 Computer Science Graduate | 💻 Full-Stack Developer in Progress | 🔧 Skilled in Java, C, C++, SQL
 </h3>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 -🌱 I’m passionate about problem-solving and creating efficient solutions.
 
